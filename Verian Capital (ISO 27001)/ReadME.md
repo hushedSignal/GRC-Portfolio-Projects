@@ -32,17 +32,17 @@ The main tool of this project was CISO Assisstant, and libreoffice for the docum
 
 # 6. **Asset Inventory**
 
-The asset invetory used on CISO Assisstant was shorten from the total assets listed on [Verian Capital - Context of the organization](Documents/Verian%20Capital%20-%20Context%20of%20the%20organization.pdf) as seen in the following screenshoot.![Asset List](C:\Users\anton\Documents\GRC\CISO%20Assistant\Verian%20Capital%20%28ISO%2027001%29\Screenshots\Asset%20List.png)
+The asset invetory used on CISO Assisstant was shorten from the total assets listed on [Verian Capital - Context of the organization](Documents/Verian%20Capital%20-%20Context%20of%20the%20organization.pdf) as seen in the following screenshoot.![Asset List](./Screenshots/Asset%20List.png)
 
 Each asset was filled with the information of the following screenshoot:
 
-![Asset Detailed](C:\Users\anton\Documents\GRC\CISO%20Assistant\Verian%20Capital%20%28ISO%2027001%29\Screenshots\Asset%20Detailed.png)
+![Asset Detailed](./Screenshots/Asset%20Detailed.png)
 
 # 7. **Threat & Vulnerability Identification**
 
 Vulnerabilities where limited to 8 to keep the project small and not overhealming.
 
-![Vulnerability List](C:\Users\anton\Documents\GRC\CISO%20Assistant\Verian%20Capital%20%28ISO%2027001%29\Screenshots\Vulnerabilities%20List.png)
+![Vulnerability List](./Screenshots/Vulnerabilities%20List.png)
 
 # 8. **Risk Assessment**
 
@@ -50,17 +50,17 @@ To indetify risks, I did a asset -> risk evaluation. I also limited the risks an
 
 Risks List:
 
-![Risk List](C:\Users\anton\Documents\GRC\CISO%20Assistant\Verian%20Capital%20%28ISO%2027001%29\Screenshots\Risks%20List.png)
+![Risk List](./Screenshots/Risks%20List.png)
 
 Each risk received this information:
 
-![Risk Detailed](C:\Users\anton\Documents\GRC\CISO%20Assistant\Verian%20Capital%20%28ISO%2027001%29\Screenshots\Risk%20Scenario%20Detailed.png)
+![Risk Detailed](./Screenshots/Risk%20Scenario%20Detailed.png)
 
 # 9. **Risk Register**
 
 To classify each risk, I imported and used ISO 27005 risk matrix. The methodology is explained in: [Verian Capital - Risk Methodology](Documents/Verian%20Capital%20-%20Risk%20Methodology.pdf)
 
-![Risk Matrix](C:\Users\anton\Documents\GRC\CISO%20Assistant\Verian%20Capital%20%28ISO%2027001%29\Screenshots\Risk%20Matrix.png)
+![Risk Matrix](./Screenshots/Risk%20Matrix.png)
 
 # 10. **Risk Treatment Plan**
 
@@ -70,15 +70,15 @@ I wrote some control down, but only a few to not erase risks or lack of complian
 
 After risks, threats and vulnerabilities were written down in CISO Assisstant. I started an audit to check compliance.
 
-![Audit](C:\Users\anton\Documents\GRC\CISO%20Assistant\Verian%20Capital%20%28ISO%2027001%29\Screenshots\Audit%20%28Part%201%29.png)
+![Audit](./Screenshots/Audit%20%28Part%201%29.png)
 
-![Audit part 2](C:\Users\anton\Documents\GRC\CISO%20Assistant\Verian%20Capital%20%28ISO%2027001%29\Screenshots\Audit%20%28Part%202%29.png)
+![Audit part 2](./Screenshots/Audit%20%28Part%202%29.png)
 
-![Audit part 3](C:\Users\anton\Documents\GRC\CISO%20Assistant\Verian%20Capital%20%28ISO%2027001%29\Screenshots\Audit%20%28Part%203%29.png)
+![Audit part 3](./Screenshots/Audit%20%28Part%203%29.png)
 
 The audit was made clause by clause, and control by control.
 
-![Control Detailed](C:\Users\anton\Documents\GRC\CISO%20Assistant\Verian%20Capital%20%28ISO%2027001%29\Screenshots\Control%20Detailed.png)
+![Control Detailed](./Screenshots/Control%20Detailed.png)
 
 # 12. **Results & Conclusions**
 
