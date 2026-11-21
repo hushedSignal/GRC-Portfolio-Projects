@@ -28,11 +28,11 @@ Most knowledge used on this project is retrieved from ISO 27001 and ISO 27005. T
 
 # 5. **Tools & Technologies**
 
-The main tool of this project was CISO Assisstant, and libreoffice for the document writing.
+The main tool of this project was CISO Assistant, and libreoffice for the document writing.
 
 # 6. **Asset Inventory**
 
-The asset invetory used on CISO Assisstant was shorten from the total assets listed on [Verian Capital - Context of the organization](Documents/Verian%20Capital%20-%20Context%20of%20the%20organization.pdf) as seen in the following screenshoot.![Asset List](./Screenshots/Asset%20List.png)
+The asset invetory used on CISO Assistant was shorten from the total assets listed on [Verian Capital - Context of the organization](Documents/Verian%20Capital%20-%20Context%20of%20the%20organization.pdf) as seen in the following screenshoot.![Asset List](./Screenshots/Asset%20List.png)
 
 Each asset was filled with the information of the following screenshoot:
 
@@ -68,7 +68,7 @@ I wrote some control down, but only a few to not erase risks or lack of complian
 
 # 11. **Compliance & Framework Mapping**
 
-After risks, threats and vulnerabilities were written down in CISO Assisstant. I started an audit to check compliance.
+After risks, threats and vulnerabilities were written down in CISO Assistant. I started an audit to check compliance.
 
 ![Audit](./Screenshots/Audit%20%28Part%201%29.png)
 
